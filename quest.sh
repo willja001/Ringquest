@@ -1,0 +1,9 @@
+javac Action.java
+javac Movement.java
+javac InteractType.java
+javac MovableType.java
+javac FiniteType.java
+javac AnimateType.java
+javac ImmovableType.java
+javac PlayerStatus.java
+javac RingQuest.java
