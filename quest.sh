@@ -5,5 +5,6 @@ javac MovableType.java
 javac FiniteType.java
 javac AnimateType.java
 javac ImmovableType.java
+javac Location.java
 javac PlayerStatus.java
 javac RingQuest.java
