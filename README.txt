@@ -16,13 +16,15 @@ http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.h
 
 3. Follow installation instructions provided by Oracle.
 
-4. Set path, classpath, or environmental variables according to Oracle instructions. An example is:
+4. Set path, classpath, or environmental variables according to Oracle instructions. An example in Linux is:
 PATH=$PATH:\home\myname\jdk1.0.0_171\bin
 export PATH
+An example in Windows is:
+set path=C:\Program Files\Java\jdk1.8.0_191\bin; C:\java
 
 5. Install quest directory.
 
-6. Navigate to quest directory. Run quest.sh (If using windows, change quest.sh to quest.bat).
+6. Navigate to quest directory. If in Linux, run quest.sh (If using windows, change quest.sh to quest.bat).
 Set execution permissions as required. Note: .java files can be individually compiled using javac filename.java
 
 7. To execute, enter "java RinqQuest"
@@ -113,11 +115,11 @@ Index/name/description/weight(f)/edible(t/f)/food% per day(f)/drinkable(t/f)/flu
 3/water/It is clear clean water./10.0/false/0.0/true/10.0/false/false/false/5.0/0/#+
 
 Food types:
-0 – not applicable
-1 – grains
-2 – fruit or vegetable
-3 – meats
-4 – dairy
+0 â€“ not applicable
+1 â€“ grains
+2 â€“ fruit or vegetable
+3 â€“ meats
+4 â€“ dairy
 
 ImmovableType
 
