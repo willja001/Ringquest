@@ -24,7 +24,7 @@ set path=C:\Program Files\Java\jdk1.8.0_191\bin; C:\java
 
 5. Install quest directory.
 
-6. Navigate to quest directory. If in Linux, run quest.sh (If using windows, change quest.sh to quest.bat).
+6. Navigate to quest directory. If in Linux, run quest.sh (If using windows, change quest.sh to quest.bat and run quest).
 Set execution permissions as required. Note: .java files can be individually compiled using javac filename.java
 
 7. To execute, enter "java RinqQuest"
