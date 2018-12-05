@@ -853,7 +853,7 @@ public class Location {
 	// Adds a nazgul to list of the locations's animate objects in the case that a nazgul was not previously 
 	// present, but the player chose to put on the ring, and the probability of encountering a nazgul was sufficiently great
 	
-	public final void attractNazgul(boolean wearingring, List<AnimateType> AnimateList){
+	public final void attractNazgul(List<AnimateType> AnimateList){
 		boolean nazgulfound = false;
 		for (int i = 0; i<this.animate.size(); i++)
 			if (this.animate.get(i).getName().matches("nazgul"))
