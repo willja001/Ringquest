@@ -4142,7 +4142,7 @@ NW/629/2.0/1/false/false/false/false/false/true/false/false/false/false/false/-1
 631/-1/17/true/You are on the great road in the wide leagues of Enedwaith - a green and deserted land.  The road runs northwest toward central 
 Eriador and south across the Enedwaith towards Dunland./The road turns northwest across the empty leagues of Enedwaith/The road runs south across 
 Enedwaith/There are the empty green fields of Enedwaith to the horizon/There are empty green fields to the horizon/There is cloudy sky above with 
-patches of blue/There is a green deserted road below/NW/630/2.0/2/false/false/false/false/false/true/false/false/false/false/false/-1/NW/630/2.0/2/false/false/false/false/
+patches of blue/There is a green deserted road below/NW/630/2.0/2/false/false/false/false/false/true/false/false/false/false/false/-1/SS/632/2.0/2/false/false/false/false/
 false/true/false/false/false/false/false/-1/ZZ/ZZ/ZZ/ZZ/8/10.0/southron/9/18/5.0/wizard/25/ZZ/#
 
 632/-1/17/true/You are in the green fields of northern Dunland.  The Dunlendings are shy people who do not welcome visitors and generally stay out of 
