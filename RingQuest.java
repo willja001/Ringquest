@@ -819,7 +819,8 @@ public static boolean putAction(Action newaction, Location location, PlayerStatu
 					System.out.println("You do not have any " + newaction.getDobj()+".");
 					else {
 						mystatus.putOn(obj);
-						location.attractNazgul(mystatus.isWearingRing(), AnimateList);
+						if (mystatus.isWearingRing())
+							location.attractNazgul(AnimateList);
 					}
 			     }
 			    
